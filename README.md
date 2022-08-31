@@ -1,1 +1,1 @@
-How to write a script
+display content of working directory
