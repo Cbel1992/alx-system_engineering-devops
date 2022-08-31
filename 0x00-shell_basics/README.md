@@ -1,1 +1,1 @@
-navigating to home directory
+long format
