@@ -1,1 +1,1 @@
-long format
+display all
