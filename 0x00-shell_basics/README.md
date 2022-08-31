@@ -1,1 +1,1 @@
-display content
+navigating to home directory
